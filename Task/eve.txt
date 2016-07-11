@@ -1,0 +1,5 @@
+margin padding oxumaq
+
+img tagi arasdirmaq
+
+css nesting dives
